@@ -66,6 +66,7 @@ interface BiohackBoxProps {
   title: string;
   children: React.ReactNode;
   type?: 'warning' | 'info' | 'synergy' | 'alert';
+  level?: string; // <--- Adicione esta linha aqui
 }
 
 export const BiohackBox = ({ title, children, type = 'info' }: BiohackBoxProps) => {
