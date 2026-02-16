@@ -1,0 +1,85 @@
+[00:00:00.937] Server  WARN    ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.054] Server  LOG     ✓ Ready in 754ms
+[00:00:01.622] Server  LOG     SSR getUser error: undefined
+[00:00:01.721] Server  LOG     Products data count: 1
+[00:00:01.722] Server  LOG     Erro Products: undefined
+[00:00:01.821] Server  LOG     Access data count: 0
+[00:00:01.821] Server  LOG     Erro Access: "column user_access.created_at does not exist"
+[00:00:02.067] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:12.511] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:13.125] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1518611012118-d1f5d907f84e?q=80&w=1600&auto=format&fit=crop" 404
+[00:00:27.526] Server  LOG     SSR getUser error: undefined
+[00:00:27.683] Server  LOG     Products data count: 1
+[00:00:27.684] Server  LOG     Erro Products: undefined
+[00:00:27.774] Server  LOG     Access data count: 0
+[00:00:27.775] Server  LOG     Erro Access: "column user_access.created_at does not exist"
+[00:03:23.750] Server  LOG     SSR getUser error: undefined
+[00:03:23.894] Server  LOG     Products data count: 1
+[00:03:23.894] Server  LOG     Erro Products: undefined
+[00:03:24.001] Server  LOG     Access data count: 0
+[00:03:24.002] Server  LOG     Erro Access: "column user_access.created_at does not exist"
+[00:03:24.145] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:36.353] Server  LOG     SSR getUser error: undefined
+[00:03:36.449] Server  LOG     Products data count: 1
+[00:03:36.450] Server  LOG     Erro Products: undefined
+[00:03:36.529] Server  LOG     Access data count: 0
+[00:03:36.530] Server  LOG     Erro Access: "column user_access.created_at does not exist"
+[00:03:36.729] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:25.500] Server  LOG     SSR getUser error: undefined
+[00:05:25.505] Server  LOG     Products data count: 1
+[00:05:25.505] Server  LOG     Erro Products: undefined
+[00:05:25.948] Server  LOG     Access data count: 1
+[00:05:25.948] Server  LOG     Erro Access: undefined
+[00:06:25.755] Server  LOG     SSR getUser error: undefined
+[00:06:25.850] Server  LOG     Products data count: 1
+[00:06:25.851] Server  LOG     Erro Products: undefined
+[00:06:25.938] Server  LOG     Access data count: 0
+[00:06:25.939] Server  LOG     Erro Access: undefined
+[00:06:26.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:57.885] Server  LOG     SSR getUser error: undefined
+[00:06:57.987] Server  LOG     Products data count: 1
+[00:06:57.988] Server  LOG     Erro Products: undefined
+[00:06:58.087] Server  LOG     Access data count: 1
+[00:06:58.087] Server  LOG     Erro Access: undefined
+[00:06:58.198] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:33.798] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:11.370] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:19.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:55.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:57.132] Server  LOG     ✓ Compiled in 92ms
+[00:25:47.916] Server  LOG     ✓ Compiled in 244ms
+[00:28:39.765] Server  LOG     ✓ Compiled in 69ms
+[00:28:49.995] Server  LOG     ✓ Compiled in 92ms
+[00:31:39.705] Server  LOG     ✓ Compiled in 68ms
+[00:31:49.875] Server  LOG     ✓ Compiled in 71ms
+[00:33:25.267] Server  LOG     ✓ Compiled in 76ms
+[00:33:50.479] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:38.250] Server  LOG     ✓ Compiled in 80ms
+[00:37:27.166] Server  LOG     ✓ Compiled in 74ms
+[00:38:51.229] Server  LOG     ✓ Compiled in 184ms
+[00:40:33.934] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:27.834] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:06.840] Server  LOG     ✓ Compiled in 99ms
+[00:43:56.057] Server  LOG     SSR getUser error: undefined
+[00:43:56.198] Server  LOG     Products data count: 1
+[00:43:56.198] Server  LOG     Erro Products: undefined
+[00:43:56.325] Server  LOG     Access data count: 1
+[00:43:56.326] Server  LOG     Erro Access: undefined
+[00:52:35.065] Server  LOG     ✓ Compiled in 80ms
+[00:52:49.323] Server  LOG     ✓ Compiled in 78ms
+[00:53:03.811] Server  LOG     ✓ Compiled in 72ms
+[00:56:59.035] Server  LOG     ✓ Compiled in 77ms
+[00:58:34.498] Server  LOG     ✓ Compiled in 284ms
+[00:59:10.779] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:30.666] Server  LOG     ✓ Compiled in 73ms
+[01:00:40.387] Server  LOG     ✓ Compiled in 68ms
+[01:44:19.595] Server  LOG     SSR getUser error: undefined
+[01:44:20.055] Server  LOG     Products data count: 1
+[01:44:20.056] Server  LOG     Erro Products: undefined
+[01:44:20.174] Server  LOG     Access data count: 1
+[01:44:20.174] Server  LOG     Erro Access: undefined
+[01:44:45.378] Server  LOG     SSR getUser error: undefined
+[01:44:45.464] Server  LOG     Products data count: 1
+[01:44:45.465] Server  LOG     Erro Products: undefined
+[01:44:45.563] Server  LOG     Access data count: 1
+[01:44:45.563] Server  LOG     Erro Access: undefined
