@@ -1,5 +1,5 @@
 import { Cover } from "@/components/Cover";
-import { TableOfContents } from "@/components/TableOfContents";
+import { TableOfContents } from "./components/TableOfContents";
 import { 
   Section, 
   ChapterTitle, 
